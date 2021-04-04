@@ -3,6 +3,7 @@ module.exports = {
     description: '君哥带你上王者',
     dest: './dist',
     port: '7777',
+    base:'/vuepress/',
     head: [
         ['link', {rel: 'icon', href: '/img/iocn/favicon.ico'}]
     ],
